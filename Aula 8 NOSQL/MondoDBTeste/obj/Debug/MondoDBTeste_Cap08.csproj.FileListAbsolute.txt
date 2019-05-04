@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MondoDBTeste.exe.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MondoDBTeste.exe
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MondoDBTeste.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Bson.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Driver.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Bson.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Driver.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\obj\Debug\MondoDBTeste_Cap08.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\obj\Debug\MondoDBTeste_Cap08.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\obj\Debug\MondoDBTeste.exe
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 8 NOSQL\MondoDBTeste\obj\Debug\MondoDBTeste.pdb

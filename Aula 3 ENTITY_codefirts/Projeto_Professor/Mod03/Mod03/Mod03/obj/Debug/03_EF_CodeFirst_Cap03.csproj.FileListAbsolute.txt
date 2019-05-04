@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\Mod03.exe.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\Mod03.exe
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\Mod03.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\EntityFramework.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\EntityFramework.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\Mod03.Migrations.RemovendoCampo.resources
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\03_EF_CodeFirst_Cap03.csproj.GenerateResource.Cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\03_EF_CodeFirst_Cap03.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\Mod03.exe
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\Mod03.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Projeto_Professor\Mod03\Mod03\Mod03\obj\Debug\03_EF_CodeFirst_Cap03.csprojResolveAssemblyReference.cache

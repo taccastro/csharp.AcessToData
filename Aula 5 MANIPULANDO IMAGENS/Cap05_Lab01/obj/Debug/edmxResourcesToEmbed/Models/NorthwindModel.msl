@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NorthwindModelStoreContainer" CdmEntityContainer="NorthwindEntities">
+    <EntitySetMapping Name="Funcionarios">
+      <EntityTypeMapping TypeName="NorthwindModel.Funcionario">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="FuncionarioID" ColumnName="EmployeeID" />
+          <ScalarProperty Name="SobreNome" ColumnName="LastName" />
+          <ScalarProperty Name="Nome" ColumnName="FirstName" />
+          <ScalarProperty Name="Cargo" ColumnName="Title" />
+          <ScalarProperty Name="Tratamento" ColumnName="TitleOfCourtesy" />
+          <ScalarProperty Name="DataNascimento" ColumnName="BirthDate" />
+          <ScalarProperty Name="DataAdmissao" ColumnName="HireDate" />
+          <ScalarProperty Name="Endereco" ColumnName="Address" />
+          <ScalarProperty Name="Cidade" ColumnName="City" />
+          <ScalarProperty Name="Estado" ColumnName="Region" />
+          <ScalarProperty Name="CEP" ColumnName="PostalCode" />
+          <ScalarProperty Name="Pais" ColumnName="Country" />
+          <ScalarProperty Name="TelefoneResidencial" ColumnName="HomePhone" />
+          <ScalarProperty Name="Ramal" ColumnName="Extension" />
+          <ScalarProperty Name="Foto" ColumnName="Photo" />
+          <ScalarProperty Name="Observacoes" ColumnName="Notes" />
+          <ScalarProperty Name="ReportarPara" ColumnName="ReportsTo" />
+          <ScalarProperty Name="FotoPath" ColumnName="PhotoPath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

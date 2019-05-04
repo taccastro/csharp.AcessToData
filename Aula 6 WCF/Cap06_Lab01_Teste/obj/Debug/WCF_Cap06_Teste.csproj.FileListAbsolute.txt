@@ -1,0 +1,13 @@
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\WCF_Cap06_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\obj\Debug\WCF_Cap06_Teste.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\obj\Debug\WCF_Cap06_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.pdb

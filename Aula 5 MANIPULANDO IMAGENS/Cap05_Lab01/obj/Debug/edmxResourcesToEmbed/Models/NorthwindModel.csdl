@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Funcionario">
+    <Key>
+      <PropertyRef Name="FuncionarioID" />
+    </Key>
+    <Property Name="FuncionarioID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SobreNome" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Nome" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Cargo" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+    <Property Name="Tratamento" Type="String" MaxLength="25" FixedLength="false" Unicode="true" />
+    <Property Name="DataNascimento" Type="DateTime" Precision="3" />
+    <Property Name="DataAdmissao" Type="DateTime" Precision="3" />
+    <Property Name="Endereco" Type="String" MaxLength="60" FixedLength="false" Unicode="true" />
+    <Property Name="Cidade" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="Estado" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="CEP" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Pais" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="TelefoneResidencial" Type="String" MaxLength="24" FixedLength="false" Unicode="true" />
+    <Property Name="Ramal" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
+    <Property Name="Foto" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="Observacoes" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ReportarPara" Type="Int32" />
+    <Property Name="FotoPath" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employees1" Relationship="Self.FK_Employees_Employees" FromRole="Employees" ToRole="Employees1" />
+    <NavigationProperty Name="Employees2" Relationship="Self.FK_Employees_Employees" FromRole="Employees1" ToRole="Employees" />
+  </EntityType>
+  <Association Name="FK_Employees_Employees">
+    <End Role="Employees" Type="NorthwindModel.Funcionario" Multiplicity="0..1" />
+    <End Role="Employees1" Type="NorthwindModel.Funcionario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="FuncionarioID" />
+      </Principal>
+      <Dependent Role="Employees1">
+        <PropertyRef Name="ReportarPara" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="NorthwindEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Funcionarios" EntityType="NorthwindModel.Funcionario" />
+    <AssociationSet Name="FK_Employees_Employees" Association="Self.FK_Employees_Employees">
+      <End Role="Employees" EntitySet="Funcionarios" />
+      <End Role="Employees1" EntitySet="Funcionarios" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

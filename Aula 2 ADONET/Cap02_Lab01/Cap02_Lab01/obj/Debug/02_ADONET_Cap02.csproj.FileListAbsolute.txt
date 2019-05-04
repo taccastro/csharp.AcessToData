@@ -1,0 +1,7 @@
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\bin\Cap02_Lab01.dll.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\bin\Cap02_Lab01.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\bin\Cap02_Lab01.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\obj\Debug\02_ADONET_Cap02.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\obj\Debug\Cap02_Lab01.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\obj\Debug\Cap02_Lab01.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 2 ADONET\Cap02_Lab01\Cap02_Lab01\obj\Debug\02_ADONET_Cap02.csprojResolveAssemblyReference.cache

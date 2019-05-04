@@ -1,0 +1,16 @@
+﻿body {
+color:#393939;
+}
+h1 {
+border-bottom:1px solid #808080;
+letter-spacing:-1px;
+}
+section{
+margin-bottom:30px;
+}
+.tabela th{
+padding:6px;
+}
+.tabela td {
+padding:6px;
+}

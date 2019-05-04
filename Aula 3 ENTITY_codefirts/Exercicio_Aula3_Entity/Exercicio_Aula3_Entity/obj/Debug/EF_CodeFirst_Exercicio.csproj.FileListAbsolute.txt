@@ -1,0 +1,22 @@
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.xml
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\EF_CodeFirst_Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\EF_CodeFirst_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.dll.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\Exercicio_Aula3_Entity.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\EF_CodeFirst_Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\EF_CodeFirst_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.pdb

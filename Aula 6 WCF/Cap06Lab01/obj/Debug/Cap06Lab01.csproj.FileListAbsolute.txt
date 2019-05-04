@@ -1,0 +1,19 @@
+C:\Thalita\Cap06Lab01\Cap06Lab01\bin\Cap06Lab01.dll.config
+C:\Thalita\Cap06Lab01\Cap06Lab01\bin\Cap06Lab01.dll
+C:\Thalita\Cap06Lab01\Cap06Lab01\bin\Cap06Lab01.pdb
+C:\Thalita\Cap06Lab01\Cap06Lab01\obj\Debug\Cap06Lab01.csprojResolveAssemblyReference.cache
+C:\Thalita\Cap06Lab01\Cap06Lab01\obj\Debug\Cap06Lab01.dll
+C:\Thalita\Cap06Lab01\Cap06Lab01\obj\Debug\Cap06Lab01.pdb
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\bin\Cap06Lab01.dll.config
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\bin\Cap06Lab01.dll
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\bin\Cap06Lab01.pdb
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\obj\Debug\Cap06Lab01.csprojResolveAssemblyReference.cache
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\obj\Debug\Cap06Lab01.dll
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06Lab01\obj\Debug\Cap06Lab01.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.pdb

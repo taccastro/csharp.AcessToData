@@ -1,0 +1,16 @@
+C:\Thalita\Cap06Lab01\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll.config
+C:\Thalita\Cap06Lab01\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll
+C:\Thalita\Cap06Lab01\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.pdb
+C:\Thalita\Cap06Lab01\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.dll
+C:\Thalita\Cap06Lab01\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.pdb
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll.config
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.pdb
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.dll
+E:\Projects Tiago Impacta\Projetos_Aula\Aula 6 WCF - falta exercicio\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\bin\Cap06_Lab01_Teste.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06_Lab01_Teste\obj\Debug\Cap06_Lab01_Teste.pdb

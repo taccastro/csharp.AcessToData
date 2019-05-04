@@ -1,0 +1,129 @@
+﻿* { margin:0px;}
+
+body {
+    margin:0px;
+    font-family:Tahoma, Verdana, Helvetica;
+}
+
+.cabecalho {
+    padding:20px;
+    background-color:#443f3f;
+    color:#ffffff;
+}
+
+.cabecalho h1 {
+    text-transform:uppercase;
+    font-size:200%;
+    letter-spacing:-2px;
+}
+
+.conteudo {
+    padding:20px;
+    min-height:300px;
+}
+
+.conteudo h2 {
+    color:#726262;
+    padding-bottom:30px;
+    margin:0px;
+}
+
+.rodape {
+    display:block;
+    padding:10px;
+    font-size:small;
+}
+
+.tabela td{
+    padding:6px;
+}
+
+.tabela th {
+    padding: 6px;
+}
+
+.legenda {
+    display:block;
+}
+
+.campo {
+    display:block;
+}
+
+.campo-imagem {
+    width:300px;
+    border-radius:5px;
+}
+
+.campo-obs {
+    width:300px;
+    min-height:200px;
+    border:none;
+    margin-top:20px;
+    display:block;
+    text-align:justify;
+    font-family:Tahoma;
+}
+
+campo-upload {
+    display:block;
+    margin-bottom:30px;
+}
+
+.campo-pequeno {
+    width:45px;
+}
+
+.campo-medio {
+    width:180px;
+}
+
+.campo-grande {
+    width:375px;
+}
+
+.coluna-imagem {
+    float:left;
+    margin-right:40px;
+}
+
+.botao-grupo {
+    margin-top:40px;
+}
+
+.botao {
+    border-radius:4px;
+    padding:7px;
+    min-width:70px;
+    border:1px solid #808080;
+}
+
+.mensagem {
+    display:block;
+    font-weight :bold;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.margem-inferior {
+    margin-bottom:30px;
+}
+
+.form-inline {
+    display:inline-block;
+    margin-right:10px;
+    float:left;
+}
+
+.form-grupo {
+    margin-bottom:15px;
+}
+
+.form-campos {
+    float:left;
+}
+
+fieldset {
+    border:none;
+    padding:0px;
+}

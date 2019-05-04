@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Cap05_Lab01.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <section class="cabecalho">
+            <h1>NorthWind Traders</h1>
+        </section>
+
+        <section class="conteudo">
+            <asp:ContentPlaceHolder 
+                ID="conteudoContentPlaceHolder"
+                runat="server">
+            </asp:ContentPlaceHolder>
+        </section>
+
+        <section class="rodape">
+            <p>2016(c) Curso ASP.NET Impacta</p>
+        </section>
+    
+    </form>
+</body>
+</html>

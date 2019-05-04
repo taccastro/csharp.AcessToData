@@ -1,0 +1,14 @@
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\bin\Cap06Lab01.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\WCF_Cap06.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\WCF_Cap06.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\Aula 6 WCF\WCF Tiago\Cap06Lab01\obj\Debug\Cap06Lab01.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\bin\Cap06Lab01.dll.config
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\bin\Cap06Lab01.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\bin\Cap06Lab01.pdb
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\obj\Debug\WCF_Cap06.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\obj\Debug\WCF_Cap06.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\obj\Debug\Cap06Lab01.dll
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 6 WCF\Cap06Lab01\obj\Debug\Cap06Lab01.pdb

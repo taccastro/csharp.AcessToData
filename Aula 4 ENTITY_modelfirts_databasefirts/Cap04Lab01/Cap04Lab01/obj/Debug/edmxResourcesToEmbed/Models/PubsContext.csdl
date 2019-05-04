@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pubsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Autor">
+    <Key>
+      <PropertyRef Name="AutorId" />
+    </Key>
+    <Property Name="AutorId" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Nome" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="SobreNome" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="phone" Type="String" MaxLength="12" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Endereco" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Cidade" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Estado" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Name="CEP" Type="String" MaxLength="5" FixedLength="true" Unicode="false" />
+    <Property Name="contract" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="titleauthor" Relationship="pubsModel.FK__titleauth__au_id__1DE57479" FromRole="authors" ToRole="titleauthor" />
+  </EntityType>
+  <EntityType Name="Editora">
+    <Key>
+      <PropertyRef Name="EditoraId" />
+    </Key>
+    <Property Name="EditoraId" Type="String" MaxLength="4" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="EditoraNome" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="Cidade" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Estado" Type="String" MaxLength="2" FixedLength="true" Unicode="false" />
+    <Property Name="Pais" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Livros" Relationship="Self.FK__titles__pub_id__1A14E395" FromRole="publishers" ToRole="titles" />
+  </EntityType>
+  <EntityType Name="Livro">
+    <Key>
+      <PropertyRef Name="LivroId" />
+    </Key>
+    <Property Name="LivroId" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Titulo" Type="String" MaxLength="80" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Tipo" Type="String" MaxLength="12" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="EditoraId" Type="String" MaxLength="4" FixedLength="true" Unicode="false" />
+    <Property Name="Preco" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="advance" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="royalty" Type="Int32" />
+    <Property Name="ytd_sales" Type="Int32" />
+    <Property Name="Observacoes" Type="String" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="DataPublicacao" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="publishers" Relationship="Self.FK__titles__pub_id__1A14E395" FromRole="titles" ToRole="publishers" />
+    <NavigationProperty Name="titleauthor" Relationship="pubsModel.FK__titleauth__title__1ED998B2" FromRole="titles" ToRole="titleauthor" />
+  </EntityType>
+  <Association Name="FK__titles__pub_id__1A14E395">
+    <End Role="publishers" Type="pubsModel.Editora" Multiplicity="0..1" />
+    <End Role="titles" Type="pubsModel.Livro" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="publishers">
+        <PropertyRef Name="EditoraId" />
+      </Principal>
+      <Dependent Role="titles">
+        <PropertyRef Name="EditoraId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="pubsEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Autores" EntityType="pubsModel.Autor" />
+    <EntitySet Name="Editoras" EntityType="pubsModel.Editora" />
+    <EntitySet Name="Livros" EntityType="pubsModel.Livro" />
+    <AssociationSet Name="FK__titles__pub_id__1A14E395" Association="Self.FK__titles__pub_id__1A14E395">
+      <End Role="publishers" EntitySet="Editoras" />
+      <End Role="titles" EntitySet="Livros" />
+    </AssociationSet>
+    <EntitySet Name="LivrosAutores" EntityType="pubsModel.LivroAutor" />
+    <AssociationSet Name="FK__titleauth__au_id__1DE57479" Association="pubsModel.FK__titleauth__au_id__1DE57479">
+      <End Role="authors" EntitySet="Autores" />
+      <End Role="titleauthor" EntitySet="LivrosAutores" />
+    </AssociationSet>
+    <AssociationSet Name="FK__titleauth__title__1ED998B2" Association="pubsModel.FK__titleauth__title__1ED998B2">
+      <End Role="titles" EntitySet="Livros" />
+      <End Role="titleauthor" EntitySet="LivrosAutores" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="LivroAutor">
+    <Key>
+      <PropertyRef Name="AutorId" />
+      <PropertyRef Name="LivroId" />
+    </Key>
+    <Property Name="AutorId" Type="String" Nullable="false" MaxLength="11" FixedLength="false" Unicode="false" />
+    <Property Name="LivroId" Type="String" Nullable="false" MaxLength="6" FixedLength="false" Unicode="false" />
+    <Property Name="au_ord" Type="Byte" />
+    <Property Name="royaltyper" Type="Int32" />
+    <NavigationProperty Name="authors" Relationship="pubsModel.FK__titleauth__au_id__1DE57479" FromRole="titleauthor" ToRole="authors" />
+    <NavigationProperty Name="titles" Relationship="pubsModel.FK__titleauth__title__1ED998B2" FromRole="titleauthor" ToRole="titles" />
+  </EntityType>
+  <Association Name="FK__titleauth__au_id__1DE57479">
+    <End Type="pubsModel.Autor" Role="authors" Multiplicity="1" />
+    <End Type="pubsModel.LivroAutor" Role="titleauthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="authors">
+        <PropertyRef Name="AutorId" />
+      </Principal>
+      <Dependent Role="titleauthor">
+        <PropertyRef Name="AutorId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__titleauth__title__1ED998B2">
+    <End Type="pubsModel.Livro" Role="titles" Multiplicity="1" />
+    <End Type="pubsModel.LivroAutor" Role="titleauthor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="titles">
+        <PropertyRef Name="LivroId" />
+      </Principal>
+      <Dependent Role="titleauthor">
+        <PropertyRef Name="LivroId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

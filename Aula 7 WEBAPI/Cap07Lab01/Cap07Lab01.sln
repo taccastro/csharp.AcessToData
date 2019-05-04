@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPICap07", "Cap07Lab01\WebAPICap07.csproj", "{17941CC4-992B-4163-95E2-CDB3E8A2F932}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_API_Transportadora", "Transportadora\Web_API_Transportadora.csproj", "{01E6B116-26C2-4804-A073-A40729DB9E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17941CC4-992B-4163-95E2-CDB3E8A2F932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17941CC4-992B-4163-95E2-CDB3E8A2F932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17941CC4-992B-4163-95E2-CDB3E8A2F932}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17941CC4-992B-4163-95E2-CDB3E8A2F932}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E6B116-26C2-4804-A073-A40729DB9E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E6B116-26C2-4804-A073-A40729DB9E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E6B116-26C2-4804-A073-A40729DB9E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E6B116-26C2-4804-A073-A40729DB9E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654618FE-F884-45D3-8E6D-D414E81EF8AA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,26 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    font-family: tahoma;
+}
+
+h1 {
+    padding: 25px;
+    background-color: #a3b0e9;
+    margin-top: 0px;
+    color: #656f9d;
+    letter-spacing: -2px;
+}
+
+section {
+    padding: 10px;
+}
+
+td {
+    padding: 6px;
+}
+
+th {
+    padding: 6px;
+    background-color: #e5eaff;
+    font-weight: normal;

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pubsModelStoreContainer" CdmEntityContainer="pubsEntities1">
+    <EntitySetMapping Name="Autores">
+      <EntityTypeMapping TypeName="pubsModel.Autor">
+        <MappingFragment StoreEntitySet="authors">
+          <ScalarProperty Name="AutorId" ColumnName="au_id" />
+          <ScalarProperty Name="Nome" ColumnName="au_lname" />
+          <ScalarProperty Name="SobreNome" ColumnName="au_fname" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="Endereco" ColumnName="address" />
+          <ScalarProperty Name="Cidade" ColumnName="city" />
+          <ScalarProperty Name="Estado" ColumnName="state" />
+          <ScalarProperty Name="CEP" ColumnName="zip" />
+          <ScalarProperty Name="contract" ColumnName="contract" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Editoras">
+      <EntityTypeMapping TypeName="pubsModel.Editora">
+        <MappingFragment StoreEntitySet="publishers">
+          <ScalarProperty Name="EditoraId" ColumnName="pub_id" />
+          <ScalarProperty Name="EditoraNome" ColumnName="pub_name" />
+          <ScalarProperty Name="Cidade" ColumnName="city" />
+          <ScalarProperty Name="Estado" ColumnName="state" />
+          <ScalarProperty Name="Pais" ColumnName="country" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Livros">
+      <EntityTypeMapping TypeName="pubsModel.Livro">
+        <MappingFragment StoreEntitySet="titles">
+          <ScalarProperty Name="LivroId" ColumnName="title_id" />
+          <ScalarProperty Name="Titulo" ColumnName="title" />
+          <ScalarProperty Name="Tipo" ColumnName="type" />
+          <ScalarProperty Name="EditoraId" ColumnName="pub_id" />
+          <ScalarProperty Name="Preco" ColumnName="price" />
+          <ScalarProperty Name="advance" ColumnName="advance" />
+          <ScalarProperty Name="royalty" ColumnName="royalty" />
+          <ScalarProperty Name="ytd_sales" ColumnName="ytd_sales" />
+          <ScalarProperty Name="Observacoes" ColumnName="notes" />
+          <ScalarProperty Name="DataPublicacao" ColumnName="pubdate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LivrosAutores">
+      <EntityTypeMapping TypeName="pubsModel.LivroAutor">
+        <MappingFragment StoreEntitySet="titleauthor">
+          <ScalarProperty Name="royaltyper" ColumnName="royaltyper" />
+          <ScalarProperty Name="au_ord" ColumnName="au_ord" />
+          <ScalarProperty Name="LivroId" ColumnName="title_id" />
+          <ScalarProperty Name="AutorId" ColumnName="au_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
