@@ -1,0 +1,13 @@
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\bin\DemoBind.dll.config
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\bin\DemoBind.dll
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\bin\DemoBind.pdb
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\obj\Debug\DemoBind.csprojResolveAssemblyReference.cache
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\obj\Debug\DemoBind.dll
+C:\Users\RPrudente\Documents\Visual Studio 2013\Projects\DemoBind\obj\Debug\DemoBind.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.dll.config
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.pdb
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.dll
+C:\Users\Tiago\Desktop\cópia IMPACTA - ACESSO A DADOS\.net AD Projetos em Aula\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.pdb
