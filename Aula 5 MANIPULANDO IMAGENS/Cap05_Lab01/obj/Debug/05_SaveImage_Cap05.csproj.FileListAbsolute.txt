@@ -5,7 +5,7 @@ C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\bin\EntityFramework.SqlServer.dll
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\bin\EntityFramework.xml
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\obj\Debug\05_SaveImage_Cap05.csprojResolveAssemblyReference.cache
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\obj\Debug\05_SaveImage_Cap05.csproj.CoreCompileInputs.cache
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\obj\Debug\Cap05_Lab01.dll
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\obj\Debug\Cap05_Lab01.pdb
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 5 MANIPULANDO IMAGENS\Cap05_Lab01\obj\Debug\05_SaveImage_Cap05.csprojResolveAssemblyReference.cache

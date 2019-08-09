@@ -5,7 +5,7 @@ C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.dll
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.xml
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\bin\EntityFramework.SqlServer.xml
+C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\03_EF_CodeFirst_Exercicio.csprojResolveAssemblyReference.cache
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\03_EF_CodeFirst_Exercicio.csproj.CoreCompileInputs.cache
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.dll
 C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\Exercicio_Aula3_Entity.pdb
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 3 ENTITY_codefirts\Exercicio_Aula3_Entity\Exercicio_Aula3_Entity\obj\Debug\03_EF_CodeFirst_Exercicio.csprojResolveAssemblyReference.cache
