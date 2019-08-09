@@ -1,6 +1,0 @@
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.dll.config
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.dll
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\bin\DemoBind.pdb
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\09_DemoBind.csproj.CoreCompileInputs.cache
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.dll
-C:\Users\Tiago\source\Repos\csharp.AcessToData\Aula 9 DataBindig_ModelBinding_Interfaces_cache\AULA 9 - DEMOBIND - RELACIONADO A CAP9\DemoBind\obj\Debug\DemoBind.pdb
