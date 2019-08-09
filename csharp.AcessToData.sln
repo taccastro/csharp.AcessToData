@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_MondoDBTeste_Cap08", "Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DataBinding_ModelBinding_Interfaces_cache.sln", "Aula 9 DataBindig_ModelBinding_Interfaces_cache\Cap09_lab01\Cap09_lab01\09_DataBinding_ModelBinding_Interfaces_cache.sln.csproj", "{4CD3622A-D927-4518-B256-B227C62801A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DemoBind", "Aula 9 DataBindig_ModelBinding_Interfaces_cache\Demobind\DemoBind\09_DemoBind.csproj", "{3E49EB4E-69D8-4719-98D4-0627A0709540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4CD3622A-D927-4518-B256-B227C62801A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CD3622A-D927-4518-B256-B227C62801A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CD3622A-D927-4518-B256-B227C62801A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E49EB4E-69D8-4719-98D4-0627A0709540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E49EB4E-69D8-4719-98D4-0627A0709540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E49EB4E-69D8-4719-98D4-0627A0709540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E49EB4E-69D8-4719-98D4-0627A0709540}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
