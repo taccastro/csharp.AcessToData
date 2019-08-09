@@ -1,0 +1,59 @@
+﻿.categoria {
+    font-weight: bold;
+    display: block;
+    font-size: 140%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    border: 1px solid #808080;
+    border-radius: 6px;
+    padding: 6px;
+    background-color: #ccc;
+    width: 937px;
+    color: #2a2828;
+    text-transform: uppercase;
+}
+
+
+.fornecedor {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    border: 1px solid #808080;
+    border-radius: 6px;
+    padding: 10px;
+    min-height: 200px;
+    width: 280px;
+    background-color: #ebe7e7;
+}
+
+.fornecedor-item {
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+.fornecedor-nome {
+    font-weight: bold;
+    display: block;
+}
+
+.fornecedor-endereco {
+    display: block;
+    font-size: 90%;
+}
+
+.fornecedor-cidade {
+    display: inline-block;
+    font-size: 90%;
+}
+
+.fornecedor-pais {
+    display: inline-block;
+    font-size: 90%;
+}
+
+.produtos-lista {
+    list-style: square;
+    padding-left: 15px;
+    padding-top: 10px;
+    font-size: 80%;
+    margin: 0px;
+}
